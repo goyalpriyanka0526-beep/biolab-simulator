@@ -24,10 +24,11 @@ An interactive virtual molecular biology laboratory developed for biotechnology 
 - Streamlit
 - Replit
 
-## Developed By
+## Developers
 
-Priyanka Goyal
-(B.Tech Biotechnology, VIT Vellore)
+**Priyanka Goyal** and **Sweatakshi Bhattacharjee**  
+B.Tech Biotechnology  
+Vellore Institute of Technology (VIT), Vellore
 
 ## Live Demo
 
