@@ -1,5 +1,12 @@
 # BioLab Simulator
 
+## Version
+
+BioLab Simulator v1.0
+
+Status: Completed and tested in Replit.
+Public deployment currently being finalized.
+
 An interactive virtual molecular biology laboratory developed for biotechnology students.
 
 ## Features
@@ -25,4 +32,5 @@ VIT Vellore
 
 ## Live Demo
 
-https://python-tool--goyalpriyanka05.replit.app
+Deployment currently being finalized.
+The public demo link will be added soon.
