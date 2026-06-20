@@ -27,8 +27,7 @@ An interactive virtual molecular biology laboratory developed for biotechnology 
 ## Developed By
 
 Priyanka Goyal
-B.Tech Biotechnology
-VIT Vellore
+(B.Tech Biotechnology, VIT Vellore)
 
 ## Live Demo
 
