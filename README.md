@@ -1,14 +1,15 @@
-# 🧬 BioLab Simulator
+# BioLab Simulator
 
-A Virtual Molecular Biology Laboratory for Biotechnology Students.
+An interactive virtual molecular biology laboratory developed for biotechnology students.
 
 ## Features
 
 - PCR Simulator
 - Gel Electrophoresis Simulator
 - DNA Extraction Simulator
-- Interactive Web Interface
-- Educational Feedback and Explanations
+- Restriction Digestion Simulator
+- Scientific Interpretation Engine
+- Downloadable Experiment Reports
 
 ## Technologies Used
 
@@ -18,6 +19,10 @@ A Virtual Molecular Biology Laboratory for Biotechnology Students.
 
 ## Developed By
 
-Priyanka Goyal  
-B.Tech Biotechnology  
+Priyanka Goyal
+B.Tech Biotechnology
 VIT Vellore
+
+## Live Demo
+
+https://python-tool--goyalpriyanka05.replit.app
