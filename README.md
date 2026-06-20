@@ -2,10 +2,9 @@
 
 ## Overview
 
-BioLab Simulator v1.0
+BioLab Simulator is an interactive virtual molecular biology laboratory developed for biotechnology students.
 
-Status: Completed and tested in Replit.
-Public deployment currently being finalized.
+Status: Completed and tested in Replit. Public deployment is currently being finalized.
 
 An interactive virtual molecular biology laboratory developed for biotechnology students.
 
