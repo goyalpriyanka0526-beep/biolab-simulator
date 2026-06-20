@@ -1,6 +1,6 @@
 # BioLab Simulator
 
-## Version
+## Overview
 
 BioLab Simulator v1.0
 
